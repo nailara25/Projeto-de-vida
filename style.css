@@ -122,3 +122,8 @@ body {
     text-align: center;
     min-width: 100px;
 }
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
+
